@@ -1,5 +1,5 @@
 <h1 align="center">⚡ Goutam Gupta ⚡</h1>
-<h3 align="center">🚀 Information Technology Engineer | Android Developer | Robotics Enthusiast</h3>
+<h3 align="center">🚀 Information Technology Engineer | Android Developer | Full Stack Developer | Robotics Enthusiast</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00FFFF&center=true&vCenter=true&width=700&lines=Welcome+to+My+Cyberpunk+GitHub+Profile;Android+Developer;AI+%7C+Robotics+%7C+IoT+Explorer;Open+Source+Contributor;Future+Tech+Innovator"/>
@@ -10,8 +10,8 @@
 # 🌌 About Me
 
 👨‍💻 Information Technology Engineering Student  
-📱 Android Developer (Java)  
-🌐 Web Developer (HTML, CSS, JavaScript, Node.js)  
+📱 Android Developer (Java,Kotlin)  
+🌐 Web Developer (HTML, CSS, JavaScript,Typscript, Node.js, Expess.js,React, MongoDB,MYSQL)  
 🤖 Robotics & IoT Enthusiast  
 🧠 Learning AI, Machine Learning , Distributed Systems,Data Structure and Algorithms, Operating System  
 🚀 Passionate about building futuristic technology  
