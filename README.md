@@ -46,7 +46,7 @@
 # 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=G870-ops&theme=matrix&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy-alpha.vercel.app/?username=G870-ops&theme=matrix&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
 </p>
 
 ---
