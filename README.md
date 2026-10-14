@@ -66,7 +66,11 @@
 🔹 Scientific Calculator App  
 🔹 Jarvis AI Assistant App  
 🔹 Computer Institute App  
-🔹 Mini Shooter Game App  
+🔹 Mini Shooter Game App 
+🔹 Food Delivery Web App
+🔹 Event Booking Web App
+🔹 School Management System Web App
+
 
 ---
 
