@@ -66,11 +66,12 @@
 🔹 Scientific Calculator App  
 🔹 Jarvis AI Assistant App  
 🔹 Computer Institute App  
-🔹 Mini Shooter Game App 
-🔹 Food Delivery Web App
-🔹 Event Booking Web App
-🔹 School Management System Web App
-
+🔹 Mini Shooter Game App  
+🔹 Food Delivery Web App  
+🔹 Event Booking Web App (Invitor)  
+🔹 School Management System Web App  
+🔹 Flat Booking Android & Web App  
+🔹 Indian Oil Corporation Limited (IOCL) Management Web App  
 
 ---
 
