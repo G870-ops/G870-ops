@@ -94,7 +94,7 @@
 # ⚡ Visitor Counter
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=G870-ops.G870-ops&count_color=00FFFF" alt="Visitor Counter"/>
+  <img src="https://gpvc.arturio.dev/G870-ops" alt="Visitor Counter"/>
 </p>
 
 ---
